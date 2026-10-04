@@ -1,0 +1,3 @@
+/Users/ferti/PersonalProjects/Cpp-Cv-Onnx-Pipeline/build/CMakeFiles/cpp-cv-onnx-pipeline.dir
+/Users/ferti/PersonalProjects/Cpp-Cv-Onnx-Pipeline/build/CMakeFiles/edit_cache.dir
+/Users/ferti/PersonalProjects/Cpp-Cv-Onnx-Pipeline/build/CMakeFiles/rebuild_cache.dir

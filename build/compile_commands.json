@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/ferti/PersonalProjects/Cpp-Cv-Onnx-Pipeline/build",
+  "command": "/usr/bin/c++  -I/Users/ferti/PersonalProjects/Cpp-Cv-Onnx-Pipeline/include -I/opt/homebrew/include/onnxruntime -isystem /opt/homebrew/Cellar/opencv/5.0.0_10/include/opencv5 -std=c++20 -arch arm64 -o CMakeFiles/cpp-cv-onnx-pipeline.dir/src/ImageProcessor.cpp.o -c /Users/ferti/PersonalProjects/Cpp-Cv-Onnx-Pipeline/src/ImageProcessor.cpp",
+  "file": "/Users/ferti/PersonalProjects/Cpp-Cv-Onnx-Pipeline/src/ImageProcessor.cpp",
+  "output": "CMakeFiles/cpp-cv-onnx-pipeline.dir/src/ImageProcessor.cpp.o"
+},
+{
+  "directory": "/Users/ferti/PersonalProjects/Cpp-Cv-Onnx-Pipeline/build",
+  "command": "/usr/bin/c++  -I/Users/ferti/PersonalProjects/Cpp-Cv-Onnx-Pipeline/include -I/opt/homebrew/include/onnxruntime -isystem /opt/homebrew/Cellar/opencv/5.0.0_10/include/opencv5 -std=c++20 -arch arm64 -o CMakeFiles/cpp-cv-onnx-pipeline.dir/src/InferenceEngine.cpp.o -c /Users/ferti/PersonalProjects/Cpp-Cv-Onnx-Pipeline/src/InferenceEngine.cpp",
+  "file": "/Users/ferti/PersonalProjects/Cpp-Cv-Onnx-Pipeline/src/InferenceEngine.cpp",
+  "output": "CMakeFiles/cpp-cv-onnx-pipeline.dir/src/InferenceEngine.cpp.o"
+},
+{
+  "directory": "/Users/ferti/PersonalProjects/Cpp-Cv-Onnx-Pipeline/build",
+  "command": "/usr/bin/c++  -I/Users/ferti/PersonalProjects/Cpp-Cv-Onnx-Pipeline/include -I/opt/homebrew/include/onnxruntime -isystem /opt/homebrew/Cellar/opencv/5.0.0_10/include/opencv5 -std=c++20 -arch arm64 -o CMakeFiles/cpp-cv-onnx-pipeline.dir/src/main.cpp.o -c /Users/ferti/PersonalProjects/Cpp-Cv-Onnx-Pipeline/src/main.cpp",
+  "file": "/Users/ferti/PersonalProjects/Cpp-Cv-Onnx-Pipeline/src/main.cpp",
+  "output": "CMakeFiles/cpp-cv-onnx-pipeline.dir/src/main.cpp.o"
+}
+]
